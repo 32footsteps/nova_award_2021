@@ -11,9 +11,9 @@
 ### sign up for github instructions
 1. Navigate your browser to https://github.com/signup
 2. enter the information asked for at the prompt
- -  user email
- -  user password
- -  username
+> -  user email
+> -  user password
+> -  username
 3. open email account used during sign-up and click the link in the verification email
 
 ### ssh key generation
