@@ -16,7 +16,6 @@
 > -  username
 3. open email account used during sign-up and click the link in the verification email
 
-**optional**
 ### ssh key generation
 1. Open a command prompt by doing one of the following:
 >  - win key + r and enter `cmd.exe`
